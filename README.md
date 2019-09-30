@@ -1,2 +1,2 @@
-# TF_Pratice_2017
+# ML_Pratice_2017
 # Pytorch & Tensorflow Pratice
